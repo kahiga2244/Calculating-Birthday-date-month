@@ -6,6 +6,6 @@ the code is written in simple
 2.css, 
 3.javascript
 # license
-MIT license
+Apache License 2.0
 # Debbugging
 if you have any issues with the code email me kahigakamiru@gmail.com
